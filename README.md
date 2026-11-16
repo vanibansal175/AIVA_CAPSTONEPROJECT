@@ -69,8 +69,8 @@ Our platform aims to bridge this gap by providing artisans with an accessible di
 | AI Conversational Assistant | Groq |
 | AI Image Generation | Cloudflare Workers AI |
 | Image Generation Model | FLUX.2 Klein |
-| Frontend | React Js |
-| Backend | Node Js |
+| Frontend | React.Js |
+| Backend | Node.Js |
 | Database | Supabase  |
 | Authentication | JWT Authentication|
 
@@ -182,10 +182,6 @@ The platform aims to:
 - Create opportunities for year-round digital commerce.
 - Promote financial inclusion and sustainable income opportunities.
 
-## Contributors
 
-Developed as a project focused on using Artificial Intelligence and digital commerce to empower traditional artisans, weavers, and micro-entrepreneurs.
-
----
 
 **Our Vision:** Making digital entrepreneurship accessible to everyone, regardless of their technical expertise or language background.
